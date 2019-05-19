@@ -280,7 +280,7 @@ hr{
 
 
 a.list-group-item, button.list-group-item{
-	color: #0077bc !important;
+	color: #23527c !important;
 	letter-spacing: 1px;
 	border-left: none !important;
 }
@@ -568,7 +568,7 @@ label{
 width: 0;
 height: 0;
 border-style: solid;
-border-width: 240px 15px 360px 380px;
+border-width: 240px 15px 360px 355px;
  border-color: transparent transparent transparent #003057ed;
 line-height: 0px;
 _border-color: #000000 #000000 #000000 #003057;
@@ -581,7 +581,7 @@ _filter: progid:DXImageTransform.Microsoft.Chroma(color='#000000');
     font-family: Roboto;
 }
 .slider-header {
-    margin-left: -330px;
+    margin-left: -295px;
     margin-top: -25px;
     width: 230px;
  
