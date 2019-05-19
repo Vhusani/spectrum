@@ -909,7 +909,7 @@ body.loaded {
 .overlay .overlayDoor:before, .overlay .overlayDoor:after {
   content: "";
   position: absolute;
-  width: 51%;
+  width: 50%;
   height: 100%;
   background: #003057;
   transition: 0.5s cubic-bezier(0.77, 0, 0.18, 1);
