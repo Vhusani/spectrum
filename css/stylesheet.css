@@ -26,7 +26,11 @@
      src: url(../fonts/glyphicons.otf);
      font-family: glyphicons;
  }
- 
+ @media(max-width: 767px){
+.overflow-auto p{
+padding: 10px 10px 10px 0px !important;
+}
+}
  html{
      width: 100% !important;
      display: inline !important;
