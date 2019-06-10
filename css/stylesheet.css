@@ -747,7 +747,7 @@ _filter: progid:DXImageTransform.Microsoft.Chroma(color='#000000');
 }
 
 .boxes:hover{
-    background: #f5f5f5;
+    background: #eeeeee;
     transition: all .4s ease-in-out;
     cursor: pointer; 
 }
